@@ -1,4 +1,4 @@
-# Rishabh Shukla’s Portfolio Website
+# Prince’s Portfolio Website
 
 Welcome to the repository for my **Personal Portfolio** website—a sleek, single-page application showcasing my skills, projects, timeline, and more. This project uses **React**, **Tailwind CSS**, and **Framer Motion** to deliver a modern, dark-themed design with subtle animations.
 
@@ -104,27 +104,7 @@ Collect messages from potential clients or collaborators, and wrap things up wit
 
 ---
 
-## 🤝 Contributing
 
-1. [Fork the repository](https://github.com/rishabh-ml/portfolio)  
-2. Create a **feature branch** (`git checkout -b feature/my-feature`)  
-3. Commit your changes (`git commit -m 'Add some feature'`)  
-4. Push to the branch (`git push origin feature/my-feature`)  
-5. Open a **Pull Request**  
-
-Feel free to submit issues or pull requests for improvements!
-
-<br/>
-
----
-
-## 📧 Contact
-
-- **Email**: rishabh@example.com  
-- **LinkedIn**: [linkedin.com/in/rishabhshukla](https://www.linkedin.com/in/rishabh-shukla-439538349/)  
-- **Twitter**: [@rishabhshukla](https://x.com/rishabh_ml_)
-
-<br/>
 
 <p align="center">
   <strong>Thank you for exploring my portfolio!</strong><br/>
