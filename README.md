@@ -4,7 +4,7 @@ Welcome to the repository for my **Personal Portfolio** website—a sleek, singl
 
 <br/>
 
-![Portfolio Preview](/public/preview.png)  
+![Portfolio Preview](public/screencapture-princedwivedi-vercel-app-2025-05-07-10_55_42.png)  
 <sup><sub>*(last updated on February 15, 2025)*</sub></sup>
 
 ---
